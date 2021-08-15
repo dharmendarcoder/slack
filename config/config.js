@@ -5,7 +5,7 @@ module.exports = {
     "development": {
         username: DB_USERNAME,
         password: DB_PASSWORD,
-        database: "sequelize_database_dev",
+        database: "seq_database_dev",
         host: DB_HOST,
         dialect: "postgres",
     },
